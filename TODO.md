@@ -4,6 +4,13 @@
 - [ ] lesa kafli 3
 - [x] lesa k4
 - [ ] lesa k5
-- [ ] lesa k7 - 14
+- [x] lesa k7 
+- [ ] lesa kafli 8
+- [ ] lesa kafli 9
+- [ ] lesa kafli 10
+- [ ] lesa kafli 11
+- [ ] lesa kafli 12
+- [ ] lesa kafli 13
+- [ ] lesa kafli 14
 - [ ] lesa kafli 19
 - [ ] lesa kafli 23
