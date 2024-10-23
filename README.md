@@ -1,1 +1,1 @@
-# vid505g-arsreikningagerdA
+# VIÐ505M-Ársreikningagerð A
