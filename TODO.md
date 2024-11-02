@@ -1,7 +1,7 @@
 ## 12. sept 2024
 - [x] lesa kafli 1 
 - [x] lesa kafli 2
-- [ ] lesa kafli 3
+- [x] lesa kafli 3
 - [x] lesa k4
 - [ ] lesa k5
 - [x] lesa k7 
