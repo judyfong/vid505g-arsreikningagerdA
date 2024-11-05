@@ -14,3 +14,9 @@
 - [ ] lesa kafli 14
 - [ ] lesa kafli 19
 - [ ] lesa kafli 23
+
+fara yfur lokapróf
+- [ ] lokapróf 2020
+- [ ] fara yfir lausn lokapróf 2020
+- [ ] lokapróf 2021
+- [ ] lokapróf 2022
