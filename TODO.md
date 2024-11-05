@@ -23,3 +23,5 @@ fara yfur lokapróf
 
 fara yfir glærur
 - [ ] fara yfir önnur kennsluefni
+- [ ] fara yfir recordings frá bruce darko
+- [ ] fara yfir glósur frá bruce í tölvupóst
