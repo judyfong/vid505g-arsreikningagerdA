@@ -20,3 +20,6 @@ fara yfur lokapróf
 - [ ] fara yfir lausn lokapróf 2020
 - [ ] lokapróf 2021
 - [ ] lokapróf 2022
+
+fara yfir glærur
+- [ ] fara yfir önnur kennsluefni
