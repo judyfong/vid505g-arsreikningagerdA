@@ -3,9 +3,9 @@
 - [x] lesa kafli 2
 - [x] lesa kafli 3
 - [x] lesa k4
-- [ ] lesa k5
+- [x] lesa k5
     - [x] lesa 5-1 - 5-9
-    - [ ] lesa 5-10-5-15
+    - [x] lesa 5-10-5-15
 - [x] lesa k7 
 - [ ] lesa kafli 8
 - [ ] lesa kafli 9
