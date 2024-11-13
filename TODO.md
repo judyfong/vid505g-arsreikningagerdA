@@ -6,7 +6,11 @@ fara yfir lokapróf
 - [ ] lokapróf 2022
 - [ ] lokapróf 2023
 
-fara yfir glærur
+### Námsefni
+
+#### Fara yfir glærur
+- virðisrýrnun
+
 - [ ] fara yfir önnur kennsluefni
 - [ ] fara yfir recordings frá bruce darko
 - [ ] fara yfir glósur frá bruce í tölvupóst
