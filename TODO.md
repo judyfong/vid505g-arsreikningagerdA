@@ -1,4 +1,18 @@
-## 12. sept 2024
+## TODO list
+fara yfir lokapróf
+- [ ] lokapróf 2020
+- [ ] fara yfir lausn lokapróf 2020
+- [ ] lokapróf 2021
+- [ ] lokapróf 2022
+- [ ] lokapróf 2023
+
+fara yfir glærur
+- [ ] fara yfir önnur kennsluefni
+- [ ] fara yfir recordings frá bruce darko
+- [ ] fara yfir glósur frá bruce í tölvupóst
+- [ ] hlusta á upptöku sem ég tók
+
+Lesa Intermediate Accounting
 - [x] lesa kafli 1 
 - [x] lesa kafli 2
 - [x] lesa kafli 3
@@ -17,14 +31,3 @@
 - [ ] lesa kafli 19
 - [ ] lesa kafli 23
 
-fara yfur lokapróf
-- [ ] lokapróf 2020
-- [ ] fara yfir lausn lokapróf 2020
-- [ ] lokapróf 2021
-- [ ] lokapróf 2022
-
-fara yfir glærur
-- [ ] fara yfir önnur kennsluefni
-- [ ] fara yfir recordings frá bruce darko
-- [ ] fara yfir glósur frá bruce í tölvupóst
-- [ ] hlusta á upptöku sem ég tók
