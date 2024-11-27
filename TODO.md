@@ -25,7 +25,7 @@ Lesa Intermediate Accounting
     - [x] lesa 5-1 - 5-9
     - [x] lesa 5-10-5-15
 - [x] lesa k7 
-- [ ] lesa kafli 8
+- [x] lesa kafli 8
 - [ ] lesa kafli 9
 - [ ] lesa kafli 10
 - [ ] lesa kafli 11
