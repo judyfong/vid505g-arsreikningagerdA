@@ -1,6 +1,6 @@
 # VIÐ505M-Ársreikningagerð A
 
-## VIÐ6505m - Financial Statements A
+## VIÐ505m - Financial Statements A
 
 https://quizlet.com/is/547161906/arsreikningagerd-a-flash-cards/
 
