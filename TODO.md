@@ -9,7 +9,8 @@ fara yfir lokapróf
 ### Námsefni
 
 #### Fara yfir glærur
-- virðisrýrnun
+- [ ] Viðskiptavild og virðisrýrnun - Goodwill and
+- [x] Tekjuskattur - Income tax
 
 - [ ] fara yfir önnur kennsluefni
 - [ ] fara yfir recordings frá bruce darko
