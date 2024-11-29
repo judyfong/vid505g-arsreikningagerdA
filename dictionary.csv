@@ -13,7 +13,7 @@ statement of cash flows, , , , chapter 3
 statement of retained earnings, , , , chapter 3
 closing entries, , , , chapter 3
 double-entry accounting, ,tvíhliða bókhald , , chapter 3
-equity, ,eigið fé, , chapter 3
+equity, EFÉ,eigið fé, , chapter 3
 liability, ,skuld, , chapter 3
 cash,, , ,
 cash equivalents,, , ,
@@ -57,7 +57,7 @@ lemma,,kennitölur,,
 algorithm,,kennitölur,,
 comprehensive income,,heildarafkoma,,
 hedge accounting,,áhættuvarnir,,
-,,efnahagsreikningur,,
+balance sheet,EH,efnahagsreikningur,,
 main,,helstu,,
 liquidity,,greiðsluhæfi,,
 solvency,,gjaldþol,,
@@ -80,10 +80,10 @@ deferred income tax liability, , tekjuskattsskuldbinding, ,
 balance sheet,,,statement of financial position,ch 5
 investing,,fjárfesting,,
 financing,,fjármagn,,
-statement of income, ,rekstrarreikningi, ,
-income statement, ,rekstrarreikningi, ,
-profit and loss account, ,rekstrarreikningi, ,
-balance sheet,,efnahagsreikningi,,
+statement of income, RR,rekstrarreikningi, ,
+income statement, RR,rekstrarreikningi, ,
+profit and loss account, RR,rekstrarreikningi, ,
+balance sheet,EH,efnahagsreikningi,,
 ,,eiginfjáryfirliti,,
 ,,niðurfærslureikningur,,
 free on board destination,f.o.b. destination,,,ch 8
