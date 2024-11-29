@@ -19,3 +19,10 @@ liability (ísl. tekjuskuldbinding) difference of the year
 If the tekjuskattskuldbinding started off larger at the beginning of the year
 versus end of the year then despite a negative income tax liability, you might
 need to pay taxes
+
+## Spurning 15
+Income tax is only calculated on the difference between the book value and the
+tax value of the item
+
+book value - tax value = difference
+difference * tax percentage = income tax discount or liability
